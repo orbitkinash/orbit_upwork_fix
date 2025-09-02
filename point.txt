@@ -1,0 +1,86 @@
+login with my no 7014111037
+Raju 7568138275
+
+Facebook Login : 
+
+Username : pradeep@fpdemo.com
+Password : Fp#Pradeep@123
+
+
+
+
+
+Debug : -
+    SHA1: BC:F1:88:42:51:FC:53:3B:E1:ED:B3:E6:49:74:FD:30:30:AD:F6:EB
+	 SHA256: 0A:A3:48:AD:E8:1D:1A:90:CC:F8:07:42:56:D6:E3:45:F7:64:4C:70:40:C1:D3:C8:68:92:42:54:D4:67:FA:84
+
+
+Released : -
+Serial number: 596f25e1
+Valid from: Thu Sep 15 16:26:37 IST 2022 until: Mon Jan 31 16:26:37 IST 2050
+Certificate fingerprints:
+	 SHA1: 79:95:4B:14:80:51:02:50:6B:B8:D9:C9:E8:6E:DE:EE:2B:AF:7D:05
+	 SHA256: 94:20:56:47:F1:D5:EB:1A:A6:5F:4F:98:46:20:23:CD:84:37:00:7F:D7:29:22:CA:08:E6:58:68:6A:50:01:AA
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+8 may 2023 (4 hour)
+
+12 may 2023 (4 hours)
+   permotional text issue (3.30hr)
+   You got a key named as content in response for faq(30 min)
+   copy icon sahi se show reha ha kya?
+ 
+15 may 2023 (2 hour)
+
+17 may 2023 (3 hour)
+
+20 may 2023 (3 hour)
+  bounce back issue on  remit payment
+  in remit dashboard filterby  date is not working not showing any response when select any old days .... this issues client also faceses many times 
+  in most recent history show old details this is all repeative concerns 
+
+22 may 2023 (4 hour)
+  Except remit dashboard searching and delete facebook account error(1hr)
+  I will tell you about remit and facebook account delete in next 2 hours(1 hr)
+  Actually when we select an date then and there is any data on that date then it is working fine, but if there is no results on that date then all data is listed, on that place we will show "No Results" or any other text to users, so that's the issue please resolve this also (1hr)
+  color changes for success message fb delete data promise(20 min)
+  redirect user to home page(20 min)
+  android and ios builds(30 min)
+
+23 may 2023 (4 hour)
+  In Ios Device in history ( Txn copy icon not showing proper please make it like android ) and also sms Purchase history also make copy functionality  like history (2hr)
+  There was issue in Most recent sms history serach records(30 min)
+  No record was in purchase history (30min)
+  clinet bol rha tha ki recharge hone pe baad ysi screen aanhi chahiy or apn ne isko recharhe page(30 min)
+  android and ios builds(30 min)
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
